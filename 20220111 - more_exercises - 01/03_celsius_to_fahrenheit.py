@@ -1,4 +1,4 @@
-# 20220111 Python Code - Celsius to Fahrenheit Converter
+# 20220111 - Python Code - Celsius to Fahrenheit Converter
 # judge url: https://judge.softuni.org/Contests/Practice/Index/1642#2
 # pastebin url: https://pastebin.com/iZz9aAfY
 

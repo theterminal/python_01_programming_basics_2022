@@ -1,4 +1,4 @@
-# 20220109 Python Code - Basketball Equipment
+# 20220109 - Python Code - Basketball Equipment
 # judge url: https://judge.softuni.org/Contests/Compete/Index/2424#7
 # pastebin url: https://pastebin.com/SDxDvKqy
 

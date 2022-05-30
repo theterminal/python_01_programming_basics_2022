@@ -1,4 +1,4 @@
-# 20220111 Python Code - Training Lab
+# 20220111 - Python Code - Training Lab
 # judge url: https://judge.softuni.org/Contests/Practice/Index/1642#4
 # pastebin url: https://pastebin.com/LERqAB8q
 

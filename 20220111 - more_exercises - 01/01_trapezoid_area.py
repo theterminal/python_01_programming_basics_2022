@@ -1,4 +1,4 @@
-# 20220111 Python Code - Trapezoid Area
+# 20220111 - Python Code - Trapezoid Area
 # judge url: https://judge.softuni.org/Contests/Practice/Index/1642#0
 # pastebin url: https://pastebin.com/00RLHYpa
 

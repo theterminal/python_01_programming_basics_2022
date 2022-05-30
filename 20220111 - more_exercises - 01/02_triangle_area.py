@@ -1,4 +1,4 @@
-# 20220111 Python Code - Triangle Area
+# 20220111 - Python Code - Triangle Area
 # judge url: https://judge.softuni.org/Contests/Practice/Index/1642#1
 # pastebin url: https://pastebin.com/fNPkQfpB
 

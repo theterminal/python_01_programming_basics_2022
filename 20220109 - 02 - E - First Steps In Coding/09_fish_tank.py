@@ -1,4 +1,4 @@
-# 20220109 Python Code - Fish Tank
+# 20220109 - Python Code - Fish Tank
 # judge url: https://judge.softuni.org/Contests/Compete/Index/2424#8
 # pastebin url: https://pastebin.com/q4yYUEYT
 

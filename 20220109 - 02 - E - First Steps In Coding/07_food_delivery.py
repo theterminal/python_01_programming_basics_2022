@@ -1,4 +1,4 @@
-# 20220108 Python Code - Food Delivery
+# 20220108 - Python Code - Food Delivery
 # judge url: https://judge.softuni.org/Contests/Compete/Index/2424#6
 # pastebin url: https://pastebin.com/KYVJ3CdK
 

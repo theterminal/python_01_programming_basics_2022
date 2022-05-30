@@ -1,4 +1,4 @@
-# 20220111 Python Code - Weather Forecast
+# 20220111 - Python Code - Weather Forecast
 # judge url: https://judge.softuni.org/Contests/Practice/Index/1642#8
 # pastebin url: https://pastebin.com/vaKaRQXw
 

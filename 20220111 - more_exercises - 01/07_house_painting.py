@@ -1,4 +1,4 @@
-# 20220111 Python Code - House Painting
+# 20220111 - Python Code - House Painting
 # judge url: https://judge.softuni.org/Contests/Practice/Index/1642#6
 # pastebin url: https://pastebin.com/LArWAR7a
 

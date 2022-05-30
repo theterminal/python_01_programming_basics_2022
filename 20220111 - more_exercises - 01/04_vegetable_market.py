@@ -1,4 +1,4 @@
-# 20220111 Python Code - Vegetable Market
+# 20220111 - Python Code - Vegetable Market
 # judge url: https://judge.softuni.org/Contests/Practice/Index/1642#3
 # pastebin url: https://pastebin.com/h2fDbuQa
 

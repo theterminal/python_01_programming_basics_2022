@@ -1,4 +1,4 @@
-# 20220111 Python Code - Fish Land
+# 20220111 - Python Code - Fish Land
 # judge url: https://judge.softuni.org/Contests/Practice/Index/1642#5
 # pastebin url: https://pastebin.com/qpt82JYu
 
