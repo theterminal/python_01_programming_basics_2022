@@ -1,4 +1,4 @@
-# 20220117 - Python Code - Fuel Tank - Part 2
+# 20220117 - Python Code - Fuel Tank - Part 2 (version 1)
 
 result = 0
 

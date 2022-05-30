@@ -1,4 +1,4 @@
-# Python Code - Personal Titles
+# 20220120 - Python Code - Personal Titles
 
 # user input
 age = float(input())
@@ -18,7 +18,7 @@ else:
 
 print(result)
 
-# -------------------------another variation---------------------------------------------
+# ------------------------ another version -----------------------------------------
 
 # # user input
 # age = float(input())

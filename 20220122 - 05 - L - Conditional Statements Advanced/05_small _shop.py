@@ -1,4 +1,4 @@
-# Python Code - Small Shop
+# 20220120 - Python Code - Small Shop
 
 # user input
 product = input().lower()

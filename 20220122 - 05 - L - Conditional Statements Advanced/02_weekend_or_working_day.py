@@ -1,4 +1,4 @@
-# Python Code - Weekend Or Working Day
+# 20220120 - Python Code - Weekend Or Working Day
 
 # user input
 day_entered = input().lower()

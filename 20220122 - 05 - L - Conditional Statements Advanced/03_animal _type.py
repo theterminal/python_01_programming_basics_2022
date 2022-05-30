@@ -1,4 +1,4 @@
-# Python Code - AnimalType
+# 20220120 - Python Code - AnimalType
 
 # user input
 animal = input().lower()

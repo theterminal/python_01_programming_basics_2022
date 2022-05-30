@@ -1,6 +1,6 @@
-# 20220117 - Python Code - Pinpes In a Pool
+# 20220117 - Python Code - Pipes In a Pool
 
-# User input
+# user input
 volume_pool_l = int(input())
 p1_l_per_h = int(input())
 p2_l_per_h = int(input())

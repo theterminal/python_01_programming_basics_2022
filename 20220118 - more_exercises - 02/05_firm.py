@@ -18,5 +18,5 @@ if hrs_company_has >= hrs_needed:
 else:
     print(f"Not enough time!{math.ceil(diff)} hours needed.")
 
-# Rounding at the "else" statement is not correct in the problem!\
+# Rounding at the "else" statement is not correct in the problem!
 # To work fine on Judge it must be math.ceil and not math.floor

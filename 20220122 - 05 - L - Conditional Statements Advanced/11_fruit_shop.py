@@ -1,7 +1,7 @@
-# Python Code - Fruit Shop - This is more elegant way by using arrays
+# 20220120 - Python Code - Fruit Shop - This is more elegant way by using arrays
 
 # user input
-fruit = input().lower()
+fruit_entered = input().lower()
 day_of_week = input().lower()
 quantity = float(input())
 
@@ -12,7 +12,7 @@ days_in_week = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturda
 prices_week_day = [2.50, 1.20, 0.85, 1.45, 2.70, 5.50, 3.85]
 prices_weekend = [2.70, 1.25, 0.90, 1.60, 3.00, 5.60, 4.20]
 
-if fruit not in fruits:
+if fruit_entered not in fruits:
     print("error")
     quit()
 else:
@@ -22,19 +22,19 @@ else:
     else:
         if day_of_week == "saturday" or day_of_week == "sunday":
             for index, value in enumerate(fruits):
-                if fruit == value:
+                if fruit_entered == value:
                     result = prices_weekend[index]
                     break
         else:
             for index, value in enumerate(fruits):
-                if fruit == value:
+                if fruit_entered == value:
                     result = prices_week_day[index]
                     break
 
 result *= quantity
 print(f"{result:.2f}")
 
-# ------------------------This is the more traditional way of solving this problem-----------------------
+# ------------------------ another version -----------------------
 
 # # Python Code - Fruit Shop
 #

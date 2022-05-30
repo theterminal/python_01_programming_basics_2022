@@ -1,4 +1,4 @@
-# Python Code - Cinema Ticket
+# 20220120 - Python Code - Cinema Ticket
 
 # user input
 day_of_week = input().lower()

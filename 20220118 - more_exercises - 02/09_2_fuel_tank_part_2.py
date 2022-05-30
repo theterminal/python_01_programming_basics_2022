@@ -1,4 +1,4 @@
-# Python Code - Fuel Tank - Part 2
+# Python Code - Fuel Tank - Part 2 (version 2)
 
 # user input
 fuel_type = input()

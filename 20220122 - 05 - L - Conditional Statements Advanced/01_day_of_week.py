@@ -1,4 +1,4 @@
-# Python Code
+# 20220120 - Python Code - Day of Week
 
 # user input
 number = int(input())

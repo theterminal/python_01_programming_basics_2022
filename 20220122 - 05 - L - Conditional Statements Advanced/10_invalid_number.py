@@ -1,4 +1,4 @@
-# Python Code - Invalid Number
+# 20220120 - Python Code - Invalid Number
 
 # user input
 number = int(input())

@@ -1,4 +1,4 @@
-# Python Code - Fruit Or Vegetable - simple solution but not elegant
+# 20220120 - Python Code - Fruit Or Vegetable - simple solution but not elegant
 
 # user input
 product = input()
@@ -23,7 +23,7 @@ else:
 
 print(result)
 
-# --------------------more elegant solution is by using arrays------------------------
+# -------------------- another version ------------------------
 
 # # Python Code - Fruit Or Vegetable
 #
