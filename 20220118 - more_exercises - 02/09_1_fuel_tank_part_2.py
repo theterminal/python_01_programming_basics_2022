@@ -1,5 +1,5 @@
-# If tested in judge MUST remove all text not asked for!!!
-import math
+# 20220117 - Python Code - Fuel Tank - Part 2
+
 result = 0
 
 # user's input
