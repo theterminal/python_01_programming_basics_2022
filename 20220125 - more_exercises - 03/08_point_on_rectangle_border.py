@@ -1,4 +1,4 @@
-# Python Code - Point On Rectangle Border
+# 20220123 - Python Code - Point On Rectangle Border
 
 # user input
 x1, y1, x2, y2, x, y = float(input()), float(input()), float(input()), float(input()), float(input()), float(input())

@@ -1,4 +1,4 @@
-# Python Code -
+# 20220123 - Python Code - Bike Race
 
 # user input
 num_juniors = int(input())
@@ -15,6 +15,7 @@ if track_type == "trail":
 elif track_type == "cross-country":
     amount_juniors = num_juniors * 8
     amount_seniors = num_seniors * 9.5
+
     if (num_juniors + num_seniors) >= 50:
         amount_juniors *= 0.75
         amount_seniors *= 0.75

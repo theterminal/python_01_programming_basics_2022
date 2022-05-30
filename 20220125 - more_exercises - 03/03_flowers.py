@@ -1,4 +1,4 @@
-# Python Code - Flowers
+# 20220123 - Python Code - Flowers
 
 # user input
 num_hrizantemi = int(input())

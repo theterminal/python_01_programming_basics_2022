@@ -1,4 +1,4 @@
-# Python Code - School Camp
+# 20220123 - Python Code - School Camp
 
 # user input
 season = input().lower()
