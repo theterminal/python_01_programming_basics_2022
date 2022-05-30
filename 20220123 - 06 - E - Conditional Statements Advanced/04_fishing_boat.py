@@ -1,4 +1,4 @@
-# Python Code - Fishong Boat
+# 20220121 - Python Code - Fishing Boat
 
 # user input
 budget = int(input())

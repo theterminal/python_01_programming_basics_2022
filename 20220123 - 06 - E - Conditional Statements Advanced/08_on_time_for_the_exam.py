@@ -1,4 +1,4 @@
-# Python Code - On Time For The Exam
+# 20220121 - Python Code - On Time For The Exam
 
 # user input
 exam_hour = int(input())

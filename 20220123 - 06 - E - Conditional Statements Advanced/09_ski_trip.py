@@ -1,4 +1,4 @@
-# Python Code - Ski Trip
+# 20220121 - Python Code - Ski Trip
 
 # user input
 days = int(input())

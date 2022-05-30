@@ -1,4 +1,4 @@
-# Python Code - New House
+# 20220121 - Python Code - New House
 
 # user input
 flower = input()
@@ -37,7 +37,7 @@ if budget >= cost:
 else:
     print(f"Not enough money, you need {diff:.2f} leva more.")
 
-# ----------------------This is an earlier version of the solution----------------------------------------
+# ---------------------- earlier version ----------------------------------------
 
 # # user's input
 # flower_entered = input()

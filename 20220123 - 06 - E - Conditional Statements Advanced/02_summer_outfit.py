@@ -1,4 +1,4 @@
-# Python Code - Summer Outfit
+# 20220121 - Python Code - Summer Outfit
 
 # user input
 degrees = int(input())

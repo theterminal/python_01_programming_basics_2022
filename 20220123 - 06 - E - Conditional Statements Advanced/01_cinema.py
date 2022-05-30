@@ -1,4 +1,4 @@
-# Python Code - Cinema
+# 20220121 - Python Code - Cinema
 
 # user input
 type_preview = input()
