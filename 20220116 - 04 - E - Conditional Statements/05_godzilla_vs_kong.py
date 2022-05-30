@@ -1,4 +1,4 @@
-# Python Code - Godzilla vs Kong
+# 20220114 - Python Code - Godzilla vs Kong
 
 # user input
 budget = float(input())

@@ -1,21 +1,22 @@
-# If tested in judge MUST remove all text not asked for!!!
+# 20220112 - Python Code - Area of Figures
 import math
 
 # user's input
-figure = input()
+figure_type = input()
+area = 0
 
 # calculations
-if figure == 'square':
+if figure_type == 'square':
     side = float(input())
     area = side * side
-elif figure == 'rectangle':
+elif figure_type == 'rectangle':
     side_a = float(input())
     side_b = float(input())
     area = side_a * side_b
-elif figure == 'circle':
+elif figure_type == 'circle':
     radius = float(input())
     area = (radius * radius) * math.pi
-elif figure == 'triangle':
+elif figure_type == 'triangle':
     side_a = float(input())
     h_to_a = float(input())
     area = side_a * h_to_a / 2

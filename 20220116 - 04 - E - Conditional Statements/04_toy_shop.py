@@ -1,5 +1,4 @@
-# Python Code - Toy Shop
-import math
+# 20220114 - Python Code - Toy Shop
 
 # user input
 price_vacation = float(input())

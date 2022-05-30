@@ -1,10 +1,10 @@
-# Python Code - Password guess
+# 20220112 - Python Code - Password guess
 
 # user input
-password = input()
+password_entered = input()
 
 # calculations & results
-if password == "s3cr3t!P@ssw0rd":
+if password_entered == "s3cr3t!P@ssw0rd":
     print("Welcome")
 else:
     print("Wrong password!")

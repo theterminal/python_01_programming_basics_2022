@@ -1,10 +1,7 @@
-# If tested in judge MUST remove all text not asked for!!!
+# 20220112 -If tested in judge MUST remove all text not asked for!!!
 import math
 
-# user's input
-# calculations
-# result
-
+# some math functions and their results...
 a = float(input())
 b = math.ceil(a)
 c = math.floor(a)

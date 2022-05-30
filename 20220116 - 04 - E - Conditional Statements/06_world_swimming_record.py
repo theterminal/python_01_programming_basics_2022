@@ -1,5 +1,4 @@
-# Python Code - World Swimming Record
-import math
+# 20220114 - Python Code - World Swimming Record
 
 # user input
 old_record_sec = float(input())

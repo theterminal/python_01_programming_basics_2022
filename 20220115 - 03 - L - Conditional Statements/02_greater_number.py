@@ -1,4 +1,4 @@
-# Python Code - Greater Number
+# 20220112 - Python Code - Greater Number
 
 # user input
 number_1 = int(input())

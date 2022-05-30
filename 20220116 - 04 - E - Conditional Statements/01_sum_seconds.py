@@ -1,4 +1,4 @@
-# Python Code - Sum Seconds
+# 20220114 - Python Code - Sum Seconds
 
 # user input
 man_1 = int(input())
@@ -12,7 +12,7 @@ seconds = sum_seconds % 60
 
 print(f"{minutes}:{seconds:02d}")
 
-# ------second way of formating the result-----------------------------------
+# ------second way of formatting the result-----------------------------------
 
 if seconds < 10:
     print(f'{minutes}:0{seconds}')

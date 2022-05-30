@@ -1,16 +1,16 @@
-# Python Code
+# 20220112 - Python Code - Speed Info
 
 # user input
-speed = float(input())
+speed_entered = float(input())
 
 # calculations & results
-if speed <= 10:
+if speed_entered <= 10:
     print("slow")
-elif 10 < speed <= 50:
+elif 10 < speed_entered <= 50:
     print("average")
-elif 50 < speed <= 150:
+elif 50 < speed_entered <= 150:
     print("fast")
-elif 150 < speed <= 1000:
+elif 150 < speed_entered <= 1000:
     print("ultra fast")
-elif speed > 1000:
+elif speed_entered > 1000:
     print("extremely fast")

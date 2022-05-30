@@ -1,4 +1,4 @@
-# Python Code - Bonus Score
+# 20220114 - Python Code - Bonus Score
 
 # user input
 start_points = int(input())
