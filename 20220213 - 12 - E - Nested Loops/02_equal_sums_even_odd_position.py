@@ -1,4 +1,4 @@
-# Python Code - Equal Sums Even Odd Position
+# 20220210 - Python Code - Equal Sums Even Odd Position
 
 # user's input
 num_1_entered = int(input())
