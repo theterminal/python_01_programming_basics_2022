@@ -1,16 +1,11 @@
 # 20220215 - Python Code - Combinations of Letters - judge url: https://judge.softuni.org/Contests/Practice/Index/1381#1
 
-range_start_letter = input()
-range_end_letter = input()
-not_including_letter = input()
-
-range_start_num = ord(range_start_letter)
-range_end_num = ord(range_end_letter)
-not_including_num = ord(not_including_letter)
+range_start_num = ord(input())
+range_end_num = ord(input())
+not_including_num = ord(input())
 
 counter_printed = 0
 
-# 97 - 122
 for i in range(range_start_num, range_end_num + 1):
     if i == not_including_num:
         continue
