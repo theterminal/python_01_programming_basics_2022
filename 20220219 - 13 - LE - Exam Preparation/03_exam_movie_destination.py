@@ -1,4 +1,4 @@
-# Python Code - Movie Destination - https://judge.softuni.org/Contests/Practice/Index/1699#4
+# 20220219 - Python Code - Movie Destination - https://judge.softuni.org/Contests/Practice/Index/1699#4
 
 # user input
 budget = float(input())

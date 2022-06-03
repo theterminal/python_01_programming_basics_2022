@@ -1,4 +1,4 @@
-# Python Code - Family Trip - https://judge.softuni.org/Contests/Practice/Index/1745#1
+# 20220219 - Python Code - Family Trip - https://judge.softuni.org/Contests/Practice/Index/1745#1
 
 # user input
 budget_entered = float(input())

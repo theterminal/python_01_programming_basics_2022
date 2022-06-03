@@ -1,4 +1,4 @@
-# Python Code - Fruit Market - https://judge.softuni.org/Contests/Practice/Index/1654#0
+# 20220219 - Python Code - Fruit Market - https://judge.softuni.org/Contests/Practice/Index/1654#0
 
 # user input
 price_strawberry_bgn = float(input())
