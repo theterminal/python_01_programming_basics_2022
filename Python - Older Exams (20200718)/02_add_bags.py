@@ -1,3 +1,4 @@
+# 20220218 - Python Code - Add Bags
 
 # user's input
 price_luggage_over_20_kg = float(input())
