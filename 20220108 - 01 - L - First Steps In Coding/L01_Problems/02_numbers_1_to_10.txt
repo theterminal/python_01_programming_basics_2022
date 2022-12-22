@@ -1,0 +1,7 @@
+20220108 - Python - Programming Basics
+02 - Numbers from 1 to 10 - judge: https://judge.softuni.org/Contests/Compete/Index/2423#1
+pastebin: https://pastebin.com/cM2BhGxn
+
+
+Напишете Python конзолна програма, която отпечатва числата от 1 до 10 на отделни редове на конзолата.
+Напишете 10 команди print(), една след друга, за да отпечатате числата от 1 до 10.
