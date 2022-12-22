@@ -1,0 +1,27 @@
+20220108 - Python - Programming Basics
+06 - Concatenate Data - judge: https://judge.softuni.org/Contests/Compete/Index/2423#5
+pastebin: https://pastebin.com/5Psxvrdh
+
+
+Напишете програма, която прочита от конзолата име, фамилия, възраст и град и печата следното съобщение:
+"You are <firstName> <lastName>, a <age>-years old person from <town>."
+
+
+Насоки:
+------
+1) Добавете към текущия PyCharm проект още един файл.
+2) Въведете входните данни и ги запишете в променливи с подходящ тип данни:
+
+first_name = input()
+last_name = input()
+age = int(input())
+town = input()
+
+3) Изведете форматирания изход:
+
+print(f'You are {first_name} {last_name}, a {age}-years old person from {town}.')
+
+4) Стартирайте програмата с Ctrl + Shift + F10 и тествайте с различни входни примери:
+
+
+-----------------------------------
