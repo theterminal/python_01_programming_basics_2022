@@ -2,6 +2,7 @@
 # 03 - Rectangle Area - judge: https://judge.softuni.org/Contests/Compete/Index/2423#2
 # pastebin: https://pastebin.com/CLNFfR3J
 
+
 side_a = int(input())
 side_b = int(input())
 
