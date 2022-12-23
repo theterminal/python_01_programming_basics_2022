@@ -1,6 +1,7 @@
-# 20220108 Python Code - Concatenate Data
-# judge url: https://judge.softuni.org/Contests/Compete/Index/2423#5
-# pastebin url: https://pastebin.com/5Psxvrdh
+# 20220108 - Python - Programming Basics
+# 06 - Concatenate Data - judge: https://judge.softuni.org/Contests/Compete/Index/2423#5
+# pastebin: https://pastebin.com/5Psxvrdh
+
 
 first_name = input()
 last_name = input()
