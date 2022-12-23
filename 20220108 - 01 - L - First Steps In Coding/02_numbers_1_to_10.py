@@ -1,6 +1,7 @@
-# 20220108 - Python Code - Numbers from 1 to 10
-# judge url: https://judge.softuni.org/Contests/Compete/Index/2423#1
-# pastebin url: https://pastebin.com/cM2BhGxn
+# 20220108 - Python - Programming Basics
+# 02 - Numbers from 1 to 10 - judge: https://judge.softuni.org/Contests/Compete/Index/2423#1
+# pastebin: https://pastebin.com/cM2BhGxn
+
 
 print(1)
 print(2)
