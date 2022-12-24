@@ -1,6 +1,7 @@
-# 20220109 - Python Code - Repainting
-# judge url: https://judge.softuni.org/Contests/Compete/Index/2424#5
-# pastebin url: https://pastebin.com/VZ5bAUL9
+# 20220109 - Python - Programming Basics
+# 06 - Repainting - judge: https://judge.softuni.org/Contests/Compete/Index/2424#5
+# pastebin: https://pastebin.com/VZ5bAUL9
+
 
 # user input
 plastic_needed_sq_m = int(input())
@@ -12,6 +13,7 @@ cost_of_bags_lv = 0.40
 cost_of_plastic_lv_per_sq_m = 1.50
 cost_of_paint_lv_per_l = 14.50
 cost_of_thinner_lv_per_l = 5.00
+
 
 # calculations
 plastic_needed_sq_m += 2
@@ -25,6 +27,7 @@ cost_of_work_lv_per_hr = cost_of_materials_lv * 0.3
 total_work_lv = cost_of_work_lv_per_hr * work_needed_hrs
 
 total_cost_lv = cost_of_materials_lv + total_work_lv
+
 
 # output
 print(f"{total_cost_lv}")
