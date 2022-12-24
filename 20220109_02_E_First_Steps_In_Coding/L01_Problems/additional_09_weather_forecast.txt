@@ -1,0 +1,54 @@
+20220111 - Python - Programming Basics
+additional 09 - Weather Forecast - judge: https://judge.softuni.org/Contests/Practice/Index/1642#8
+pastebin: https://pastebin.com/vaKaRQXw
+
+
+Напишете програма, която познава дали е топло или студено навън.
+От конзолата се чете един ред – текст, който подсказва какво е времето.
+При въвеждане на "sunny" трябва да се отпечата "It's warm outside!".
+Във всички останали случаи трябва да се отпечата "It's cold outside!".
+
+
+____________ Test Data _____________
+
+
+Input 1:
+-------
+sunny
+
+
+Output 1:
+--------
+It's warm outside!
+
+
+------------------------------------
+
+
+Input 1:
+-------
+cloudy
+
+
+Output 1:
+--------
+It's cold outside!
+
+
+------------------------------------
+
+
+Input 1:
+-------
+snowy
+
+
+Output 1:
+--------
+It's cold outside!
+
+
+------------------------------------
+
+
+Насоки: потърсете информация за if-else конструкцията.
