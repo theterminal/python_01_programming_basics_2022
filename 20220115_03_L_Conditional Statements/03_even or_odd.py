@@ -1,7 +1,10 @@
-# 20220112 - Python Code - Even or Odd
+# 20220112 - Python - Programming Basics - Conditional Statements
+# 03 - Even or Odd
+
 
 # user input
 number = int(input())
+
 
 # calculations & results
 if number % 2 == 0:
