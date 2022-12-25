@@ -1,9 +1,11 @@
-# 20220111 - Python Code - Weather Forecast - Part 2
-# judge url: https://judge.softuni.org/Contests/Practice/Index/1642#9
-# pastebin url: https://pastebin.com/0TGz6PjK
+# 20220111 - Python - Programming Basics
+# additional 10 - Weather Forecast - Part 2 - judge: https://judge.softuni.org/Contests/Practice/Index/1642#9
+# pastebin: https://pastebin.com/0TGz6PjK
+
 
 # user input
 degrees = float(input())
+
 
 # calculations & output
 if 26.00 <= degrees <= 35.00:
