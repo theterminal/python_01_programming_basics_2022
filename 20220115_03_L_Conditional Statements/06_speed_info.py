@@ -1,7 +1,10 @@
-# 20220112 - Python Code - Speed Info
+# 20220112 - Python - Programming Basics - Conditional Statements
+# 06 - Speed Info
+
 
 # user input
 speed_entered = float(input())
+
 
 # calculations & results
 if speed_entered <= 10:
