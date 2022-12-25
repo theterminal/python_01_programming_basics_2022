@@ -1,4 +1,6 @@
-# 20220112 - Python Code - Excellent Grade
+# 20220112 - Python - Programming Basics - Conditional Statements
+# 01 - Excellent Grade
+
 
 # user input
 grade = float(input())
