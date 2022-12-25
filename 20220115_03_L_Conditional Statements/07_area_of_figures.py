@@ -1,9 +1,13 @@
-# 20220112 - Python Code - Area of Figures
+# 20220112 - Python - Programming Basics - Conditional Statements
+# 07 - Area of Figures
+
 import math
+
 
 # user's input
 figure_type = input()
 area = 0
+
 
 # calculations
 if figure_type == 'square':
@@ -22,6 +26,7 @@ elif figure_type == 'triangle':
     area = side_a * h_to_a / 2
 else:
     print('wrong entry')
+
 
 # result
 print(f'{area:.3f}')
