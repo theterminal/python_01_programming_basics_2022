@@ -1,7 +1,10 @@
-# 20220112 - Python Code - Numbers 100 to 200
+# 20220112 - Python - Programming Basics - Conditional Statements
+# 05 - Numbers 100 to 200
+
 
 # user input
 number = int(input())
+
 
 # calculations & results
 if number < 100:
