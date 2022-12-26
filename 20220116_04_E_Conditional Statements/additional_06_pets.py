@@ -1,5 +1,8 @@
-# 20220117 - Python Code - Pets
+# 20220117 - Python - Programming Basics - Conditional Statements
+# additional 06 - Pets
+
 import math
+
 
 # user input
 number_days_travel = int(input())
@@ -7,6 +10,7 @@ total_food_available_for_the_vacation_kg = int(input())
 dog_food_required_per_day_kg = float(input())
 cat_food_required_per_day_kg = float(input())
 turtle_food_required_per_day_kg = float(input()) * 0.001
+
 
 # calculations & results
 dog_food_total_required_kg = number_days_travel * dog_food_required_per_day_kg
