@@ -1,10 +1,13 @@
-# 20220117 - Python Code - Pipes In a Pool
+# 20220117 - Python - Programming Basics - Conditional Statements
+# additional 01 - Pipes In a Pool
+
 
 # user input
 volume_pool_l = int(input())
 p1_l_per_h = int(input())
 p2_l_per_h = int(input())
 hours = float(input())
+
 
 # calculations & results
 l_p1 = p1_l_per_h * hours
