@@ -1,9 +1,12 @@
-# 20220114 - Python Code - Sum Seconds
+# 20220114 - Python - Programming Basics - Conditional Statements
+# 01 - Sum Seconds
+
 
 # user input
 man_1 = int(input())
 man_2 = int(input())
 man_3 = int(input())
+
 
 # calculations & results
 sum_seconds = man_1 + man_2 + man_3
@@ -12,7 +15,9 @@ seconds = sum_seconds % 60
 
 print(f"{minutes}:{seconds:02d}")
 
+
 # ------second way of formatting the result-----------------------------------
+
 
 if seconds < 10:
     print(f'{minutes}:0{seconds}')
