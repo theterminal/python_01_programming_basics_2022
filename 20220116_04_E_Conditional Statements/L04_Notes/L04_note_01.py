@@ -1,4 +1,6 @@
-# 20220114 - Python Code
+# 20220114 - Python - Programming Basics - Conditional Statements
+# Note 01
+
 
 a = float(input('Enter a number => a = '))
 b = float(input('Enter a number => b = '))
