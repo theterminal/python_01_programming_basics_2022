@@ -1,8 +1,11 @@
-# 20220117 - Python Code - Fuel Tank
+# 20220117 - Python - Programming Basics - Conditional Statements
+# additional 08 - Fuel Tank
+
 
 # user input
 type_fuel = input()
 fuel_in_tank_l = int(input())
+
 
 # calculations & results
 type_fuel = type_fuel.lower()
