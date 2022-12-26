@@ -1,8 +1,11 @@
-# 20220117 - Python Code - Transport Price
+# 20220117 - Python - Programming Basics - Conditional Statements
+# additional 01 - Transport Price
+
 
 # user input
 km_to_travel = int(input())
 day_night = input()
+
 
 # calculations & results
 price = 0
