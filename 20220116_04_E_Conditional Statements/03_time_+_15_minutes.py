@@ -1,8 +1,11 @@
-# 20220114 - Python Code - Time + 15 minutes
+# 20220114 - Python - Programming Basics - Conditional Statements
+# 03 - Time + 15 minutes
+
 
 # user input
 hours = int(input())
 minutes = int(input())
+
 
 # calculations & results
 hrs_to_minutes = hours * 60
