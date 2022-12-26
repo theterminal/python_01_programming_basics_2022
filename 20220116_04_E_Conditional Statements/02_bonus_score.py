@@ -1,7 +1,10 @@
-# 20220114 - Python Code - Bonus Score
+# 20220114 - Python - Programming Basics - Conditional Statements
+# 02 - Bonus Score
+
 
 # user input
 start_points = int(input())
+
 
 # calculations & results
 bonus_points, total_points = 0, 0
