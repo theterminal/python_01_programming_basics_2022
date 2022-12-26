@@ -1,10 +1,13 @@
-# 20220114 - Python Code - Shopping
+# 20220114 - Python - Programming Basics - Conditional Statements
+# 07 - Shopping
+
 
 # user input
 budget = float(input())
 num_video_cards = int(input())
 num_processors = int(input())
 num_rams = int(input())
+
 
 # calculations & results
 amount_video_cards = num_video_cards * 250
