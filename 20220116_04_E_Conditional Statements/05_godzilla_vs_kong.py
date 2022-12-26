@@ -1,9 +1,12 @@
-# 20220114 - Python Code - Godzilla vs Kong
+# 20220114 - Python - Programming Basics - Conditional Statements
+# 05 - Godzilla vs Kong
+
 
 # user input
 budget = float(input())
 num_statists = int(input())
 price_clothes_one_statist = float(input())
+
 
 # calculations & results
 cost = 0
