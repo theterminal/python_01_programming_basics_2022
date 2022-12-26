@@ -1,4 +1,6 @@
-# 20220114 - Python Code - Lunch Break
+# 20220114 - Python - Programming Basics - Conditional Statements
+# 08 - Lunch Break
+
 
 # user input
 import math
@@ -6,6 +8,7 @@ import math
 movie_name = input()
 length_movie_min = int(input())
 break_time_min = int(input())
+
 
 # calculations & results
 time_to_eat = break_time_min * 0.125
