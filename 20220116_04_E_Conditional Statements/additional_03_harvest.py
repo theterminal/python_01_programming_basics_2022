@@ -1,4 +1,7 @@
-# 20220117 - Python Code - Harvest
+# 20220117 - Python - Programming Basics - Conditional Statements
+# additional 03 - Harvest
+
+
 import math
 
 # user input
@@ -7,6 +10,7 @@ grapes_from_1_sq_m_kg = float(input())
 needed_wine_l = int(input())
 num_workers = int(input())
 for_1_l_wine_needed_kg = 2.5
+
 
 # calculations & results
 size_land_wine_sq_m = size_land_sq_m * 0.4
