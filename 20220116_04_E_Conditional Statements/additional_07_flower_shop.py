@@ -1,5 +1,8 @@
-# 20220117 - Python Code - Flower Shop
+# 20220117 - Python - Programming Basics - Conditional Statements
+# additional 07 - Flower Shop
+
 import math
+
 
 # user input
 num_magnolii = int(input())
@@ -7,6 +10,7 @@ num_ziumbiuli = int(input())
 num_roses = int(input())
 num_kaktusi = int(input())
 price_gift = float(input())
+
 
 # calculations & results
 amount_magnolii = num_magnolii * 3.25
