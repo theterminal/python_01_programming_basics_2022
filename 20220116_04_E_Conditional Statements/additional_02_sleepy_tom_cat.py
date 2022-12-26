@@ -1,8 +1,11 @@
-# 20220117 - Python Code - Sleepy Cat Tom
+# 20220117 - Python - Programming Basics - Conditional Statements
+# additional 02 - Sleepy Cat Tom
+
 
 # user input
 number_days_off = int(input())
 min_norm_year = 30000
+
 
 # calculations & results
 min_days_off = number_days_off * 127
