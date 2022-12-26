@@ -1,4 +1,6 @@
-# 20220114 - Python Code - Toy Shop
+# 20220114 - Python - Programming Basics - Conditional Statements
+# 04 - Toy Shop
+
 
 # user input
 price_vacation = float(input())
@@ -7,6 +9,7 @@ num_talking_dolls = int(input())
 num_plush_bears = int(input())
 num_minions = int(input())
 num_trucks = int(input())
+
 
 # calculations & results
 total_amount_after_discount = 0
