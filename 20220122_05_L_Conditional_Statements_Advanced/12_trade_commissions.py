@@ -1,8 +1,11 @@
-# Python Code - Trade Commissions
+# 20220120 - Python - Conditional Statements Advanced
+# 12 - Trade Commissions - judge: https://judge.softuni.org/Contests/Compete/Index/2415#11
+
 
 # user input
 town_entered = input().lower()
 sales_entered = float(input())
+
 
 # calculations & results
 town_names = ["sofia", "varna", "plovdiv"]
