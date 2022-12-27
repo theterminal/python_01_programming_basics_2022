@@ -1,7 +1,10 @@
-# 20220120 - Python Code - Weekend Or Working Day
+# 20220120 - Python - Conditional Statements Advanced
+# 02 - Weekend Or Working Day - judge: https://judge.softuni.org/Contests/Compete/Index/2415#1
+
 
 # user input
 day_entered = input().lower()
+
 
 # calculations & results
 if day_entered == "monday" or \
