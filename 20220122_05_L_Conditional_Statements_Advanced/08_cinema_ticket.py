@@ -1,7 +1,10 @@
-# 20220120 - Python Code - Cinema Ticket
+# 20220120 - Python - Conditional Statements Advanced
+# 08 - Cinema Ticket - judge: https://judge.softuni.org/Contests/Compete/Index/2415#7
+
 
 # user input
 day_of_week = input().lower()
+
 
 # calculations & results
 if day_of_week == "wednesday" or day_of_week == "thursday":
