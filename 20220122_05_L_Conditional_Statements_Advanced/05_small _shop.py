@@ -1,9 +1,12 @@
-# 20220120 - Python Code - Small Shop
+# 20220120 - Python - Conditional Statements Advanced
+# 05 - Small Shop - judge: https://judge.softuni.org/Contests/Compete/Index/2415#4
+
 
 # user input
 product = input().lower()
 town = input().lower()
 quantity = float(input())
+
 
 # calculations
 result = 0
