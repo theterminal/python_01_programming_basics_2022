@@ -1,9 +1,12 @@
-# Python Code - Fuel Tank - Part 2 (version 2)
+# 20220117 - Python - Programming Basics - Conditional Statements
+# additional 09_02 - Fuel Tank - Part 2 (version 2)
+
 
 # user input
 fuel_type = input()
 fuel_l = float(input())
 card = input()
+
 
 # calculations & results
 total = 0
