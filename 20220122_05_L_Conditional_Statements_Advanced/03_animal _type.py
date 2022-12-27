@@ -1,7 +1,10 @@
-# 20220120 - Python Code - AnimalType
+# 20220120 - Python - Conditional Statements Advanced
+# 03 - AnimalType - judge: https://judge.softuni.org/Contests/Compete/Index/2415#2
+
 
 # user input
 animal = input().lower()
+
 
 # calculations & results
 if animal == "dog":
