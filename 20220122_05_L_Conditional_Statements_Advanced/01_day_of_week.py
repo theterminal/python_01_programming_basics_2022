@@ -1,7 +1,10 @@
-# 20220120 - Python Code - Day of Week
+# 20220120 - Python - Conditional Statements Advanced
+# 01 - Day of Week - judge: https://judge.softuni.org/Contests/Compete/Index/2415#0
+
 
 # user input
 number = int(input())
+
 
 # calculations & results
 if number == 1:
