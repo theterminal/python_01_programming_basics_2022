@@ -1,0 +1,51 @@
+20220120 - Python - Conditional Statements Advanced
+03 - AnimalType - judge: https://judge.softuni.org/Contests/Compete/Index/2415#2
+
+
+Напишете програма, която отпечатва класа на животното според неговото име, въведено от потребителя.
+
+dog -> mammal
+crocodile, tortoise, snake -> reptile
+others -> unknown
+
+
+___________ Test Data ______________
+
+
+Input 1:
+-------
+dog
+
+
+Output 1:
+--------
+mammal
+
+
+------------------------------------
+
+
+Input 2:
+-------
+snake
+
+
+Output 2:
+--------
+reptile
+
+
+------------------------------------
+
+
+Input 3:
+-------
+cat
+
+
+Output 3:
+--------
+unknown
+
+
+------------------------------------
