@@ -1,16 +1,21 @@
-# 20220117 - Python Code - Fuel Tank - Part 2 (version 1)
+# 20220117 - Python - Programming Basics - Conditional Statements
+# additional 09_01 - Fuel Tank - Part 2 (version 1)
+
 
 result = 0
+
 
 # user's input
 fuel_type = input()
 fuel_l = float(input())
 with_card = input()
 
+
 # problem information
 gasoline_lv_per_l = 2.22
 diesel_lv_per_l = 2.33
 gas_lv_per_l = 0.93
+
 
 # calculations
 total_gasoline_lv = gasoline_lv_per_l * fuel_l
@@ -70,6 +75,7 @@ elif fuel_type == "Gas":
         print("Invalid card entry!")
 else:
     print("Invalid fuel type entry!")
+
 
 # result
 print(f'{result:.2f} lv.')
