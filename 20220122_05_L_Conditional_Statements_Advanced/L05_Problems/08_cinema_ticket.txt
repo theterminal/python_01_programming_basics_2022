@@ -1,0 +1,52 @@
+20220120 - Python - Conditional Statements Advanced
+08 - Cinema Ticket - judge: https://judge.softuni.org/Contests/Compete/Index/2415#7
+
+
+Да се напише програма която чете ден от седмицата (текст) – въведен от потребителя и принтира на конзолата цената
+на билет за кино според деня от седмицата:
+
+
+Monday    Tuesday    Wednesday    Thursday    Friday    Saturday    Sunday
+12        12         14           14          12        16          16
+
+
+___________ Test Data ______________
+
+
+Input 1:
+-------
+Monday
+
+
+Output 1:
+--------
+12
+
+
+------------------------------------
+
+
+Input 2:
+-------
+Friday
+
+
+Output 2:
+--------
+12
+
+
+------------------------------------
+
+
+Input 3:
+-------
+Sunday
+
+
+Output 3:
+--------
+16
+
+
+------------------------------------
