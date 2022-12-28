@@ -1,0 +1,65 @@
+20220120 - Python - Conditional Statements Advanced
+09 - Fruit Or Vegetable (simple solution but not elegant) - judge: https://judge.softuni.org/Contests/Compete/Index/2415#8
+
+
+Да се напише програма, която чете име на продукт, въведено от потребителя, и проверява дали е плод или зеленчук.
+    *) Плодовете "fruit" имат следните възможни стойности:  banana, apple, kiwi, cherry, lemon и grapes;
+    *) Зеленчуците "vegetable" имат следните възможни стойности:  tomato, cucumber, pepper и carrot;
+    *) Всички останали са "unknown".
+
+Да се изведе "fruit", "vegetable" или "unknown" според въведения продукт.
+
+
+___________ Test Data ______________
+
+
+Input 1:
+-------
+banana
+
+
+Output 1:
+--------
+fruit
+
+
+------------------------------------
+
+
+Input 2:
+-------
+apple
+
+
+Output 2:
+--------
+fruit
+
+
+------------------------------------
+
+
+Input 3:
+-------
+tomato
+
+
+Output 3:
+--------
+vegetable
+
+
+------------------------------------
+
+
+Input 4:
+-------
+water
+
+
+Output 4:
+--------
+unknown
+
+
+------------------------------------
