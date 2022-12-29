@@ -1,9 +1,12 @@
-# 20220123 - Python Code - Bike Race
+# 20220123 - Python - Conditional Statements Advanced
+# additional 02 - Bike Race
+
 
 # user input
 num_juniors = int(input())
 num_seniors = int(input())
 track_type = input()
+
 
 # calculations & results
 amount_juniors = 0
