@@ -1,7 +1,10 @@
-# Python Code - Multiply By 2
+# 20220123 - Python - Conditional Statements Advanced
+# additional 10 - Multiply By 2
+
 
 # user input
 number = float(input())
+
 
 # calculations & results
 while number >= 0:
