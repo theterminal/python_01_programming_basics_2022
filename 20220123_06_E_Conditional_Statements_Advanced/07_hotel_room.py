@@ -1,8 +1,11 @@
-# 20220121 - Python Code - Hotel Room
+# 20220121 - Python - Conditional Statements Advanced
+# 07 - Hotel Room
+
 
 # user input
 month = input()
 num_nights = int(input())
+
 
 # calculations & results
 cost_studio = 0
