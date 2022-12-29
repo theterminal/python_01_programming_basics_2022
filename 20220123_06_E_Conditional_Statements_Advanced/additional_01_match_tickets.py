@@ -1,9 +1,12 @@
-# 20220124 - Python Code - Match Tickets
+# 20220123 - Python - Conditional Statements Advanced
+# additional 01 - Match Tickets
+
 
 # user input
 budget = float(input())
 category = input()
 num_people = int(input())
+
 
 # calculations & results
 tickets = 0
