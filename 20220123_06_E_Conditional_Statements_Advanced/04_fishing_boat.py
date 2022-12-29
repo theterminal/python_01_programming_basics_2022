@@ -1,9 +1,12 @@
-# 20220121 - Python Code - Fishing Boat
+# 20220121 - Python - Conditional Statements Advanced
+# 04 - Fishing Boat
+
 
 # user input
 budget = int(input())
 season = input()
 number_fishermen = int(input())
+
 
 # calculations & results
 rent = 0
