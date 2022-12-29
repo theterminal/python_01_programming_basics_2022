@@ -1,4 +1,6 @@
-# 20220123 - Python Code - Flowers
+# 20220123 - Python - Conditional Statements Advanced
+# additional 03 - Flowers
+
 
 # user input
 num_hrizantemi = int(input())
@@ -6,6 +8,7 @@ num_roses = int(input())
 num_tulips = int(input())
 season = input().lower()
 is_holiday = input()
+
 
 # calculations & results
 amount_hrizantemi, amount_roses, amount_tulips, total = 0, 0, 0, 0
