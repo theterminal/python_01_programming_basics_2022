@@ -1,8 +1,11 @@
-# 20220123 - Python Code - Vacation
+# 20220123 - Python - Conditional Statements Advanced
+# additional 05 - Vacation
+
 
 # user input
 budget = float(input())
 season = input().lower()
+
 
 # calculations & results
 sleep_at = ""
