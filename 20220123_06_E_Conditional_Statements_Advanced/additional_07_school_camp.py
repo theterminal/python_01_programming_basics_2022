@@ -1,10 +1,13 @@
-# 20220123 - Python Code - School Camp
+# 20220123 - Python - Conditional Statements Advanced
+# additional 07 - School Camp
+
 
 # user input
 season = input().lower()
 group_type = input().lower()
 students = int(input())
 nights = int(input())
+
 
 # calculations & results
 sport = ""
