@@ -1,8 +1,11 @@
-# 20220121 - Python Code - Journey
+# 20220121 - Python - Conditional Statements Advanced
+# 05 - Journey
+
 
 # user input
 budget = float(input())
 season = input()
+
 
 # calculations & results
 money = 0
