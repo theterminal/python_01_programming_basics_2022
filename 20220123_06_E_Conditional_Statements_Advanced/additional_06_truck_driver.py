@@ -1,8 +1,11 @@
-# 20220123 - Python Code - Truck Driver
+# 20220123 - Python - Conditional Statements Advanced
+# additional 06 - Truck Driver
+
 
 # user input
 season = input().lower()
 km_per_month = float(input())
+
 
 # calculations & results
 drivers_pay = 0
