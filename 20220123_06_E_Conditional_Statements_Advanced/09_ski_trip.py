@@ -1,9 +1,12 @@
-# 20220121 - Python Code - Ski Trip
+# 20220121 - Python - Conditional Statements Advanced
+# 09 - Ski Trip
+
 
 # user input
 days = int(input())
 type_room = input()
 grade = input()
+
 
 # calculations & results
 nights = days - 1
