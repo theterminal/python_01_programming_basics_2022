@@ -1,8 +1,11 @@
-# 20220123 - Python Code - Car To Go
+# 20220123 - Python - Conditional Statements Advanced
+# additional 04 - Car To Go
+
 
 # user input
 budget = float(input())
 season = input().lower()
+
 
 # calculations & results
 car_class = ""
