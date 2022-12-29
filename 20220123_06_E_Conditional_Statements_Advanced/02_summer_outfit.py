@@ -1,8 +1,11 @@
-# 20220121 - Python Code - Summer Outfit
+# 20220121 - Python - Conditional Statements Advanced
+# 02 - Summer Outfit
+
 
 # user input
 degrees = int(input())
 time_of_day = input()
+
 
 # calculations & results
 outfit = ""
