@@ -1,10 +1,13 @@
-# 20220121 - Python Code - On Time For The Exam
+# 20220121 - Python - Conditional Statements Advanced
+# 08 - On Time For The Exam
+
 
 # user input
 exam_hour = int(input())
 exam_minutes = int(input())
 arrival_hour = int(input())
 arrival_minutes = int(input())
+
 
 # calculations & results
 exam = exam_hour * 60 + exam_minutes
