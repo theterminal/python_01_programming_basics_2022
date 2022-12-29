@@ -1,9 +1,12 @@
-# 20220121 - Python Code - Operations Between Numbers
+# 20220121 - Python - Conditional Statements Advanced
+# 06 - Operations Between Numbers
+
 
 # user input
 num_1 = int(input())
 num_2 = int(input())
 operation = input()
+
 
 # calculations & results
 result = 0
