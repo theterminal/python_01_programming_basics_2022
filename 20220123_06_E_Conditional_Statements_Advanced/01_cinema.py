@@ -1,9 +1,12 @@
-# 20220121 - Python Code - Cinema
+# 20220121 - Python - Conditional Statements Advanced
+# 01 - Cinema
+
 
 # user input
 type_preview = input()
 num_rows = int(input())
 num_col = int(input())
+
 
 # calculations & results
 price = 0
