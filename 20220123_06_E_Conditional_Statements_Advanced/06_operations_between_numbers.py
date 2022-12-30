@@ -1,5 +1,5 @@
 # 20220121 - Python - Conditional Statements Advanced
-# 06 - Operations Between Numbers
+# 06 - Operations Between Numbers - judge: https://judge.softuni.org/Contests/Compete/Index/2416#5
 
 
 # user input

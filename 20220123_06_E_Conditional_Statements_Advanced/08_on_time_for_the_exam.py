@@ -1,5 +1,5 @@
 # 20220121 - Python - Conditional Statements Advanced
-# 08 - On Time For The Exam
+# 08 - On Time For The Exam - judge: https://judge.softuni.org/Contests/Compete/Index/2416#7
 
 
 # user input

@@ -1,5 +1,5 @@
 # 20220121 - Python - Conditional Statements Advanced
-# 02 - Summer Outfit
+# 02 - Summer Outfit - judge: https://judge.softuni.org/Contests/Compete/Index/2416#1
 
 
 # user input

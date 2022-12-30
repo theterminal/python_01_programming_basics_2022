@@ -1,5 +1,5 @@
 # 20220121 - Python - Conditional Statements Advanced
-# 05 - Journey
+# 05 - Journey - judge: https://judge.softuni.org/Contests/Compete/Index/2416#5
 
 
 # user input

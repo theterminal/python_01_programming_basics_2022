@@ -1,5 +1,5 @@
 # 20220121 - Python - Conditional Statements Advanced
-# 07 - Hotel Room
+# 07 - Hotel Room - judge: https://judge.softuni.org/Contests/Compete/Index/2416#6
 
 
 # user input

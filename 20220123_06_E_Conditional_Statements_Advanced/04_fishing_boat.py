@@ -1,5 +1,5 @@
 # 20220121 - Python - Conditional Statements Advanced
-# 04 - Fishing Boat
+# 04 - Fishing Boat - judge: https://judge.softuni.org/Contests/Compete/Index/2416#3
 
 
 # user input

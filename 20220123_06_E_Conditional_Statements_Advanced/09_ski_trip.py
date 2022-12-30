@@ -1,5 +1,5 @@
 # 20220121 - Python - Conditional Statements Advanced
-# 09 - Ski Trip
+# 09 - Ski Trip - judge: https://judge.softuni.org/Contests/Compete/Index/2416#8
 
 
 # user input

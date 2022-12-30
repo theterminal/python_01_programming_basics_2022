@@ -1,5 +1,5 @@
 # 20220121 - Python - Conditional Statements Advanced
-# 03 - New House
+# 03 - New House - judge: https://judge.softuni.org/Contests/Compete/Index/2416#2
 
 
 # ---------------------- version 2 -------------------------

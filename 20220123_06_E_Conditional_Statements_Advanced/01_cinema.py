@@ -1,5 +1,5 @@
 # 20220121 - Python - Conditional Statements Advanced
-# 01 - Cinema
+# 01 - Cinema - judge: https://judge.softuni.org/Contests/Compete/Index/2416#0
 
 
 # user input
