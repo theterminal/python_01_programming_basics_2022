@@ -1,0 +1,30 @@
+20220123 - Python - Conditional Statements Advanced
+additional 09 - Numbers From 1 To 10 - judge: https://judge.softuni.org/Contests/Practice/Index/1663#8
+
+
+Напишете програма, която отпечатва числата от 1 до 10, по едно на ред.
+
+
+Насоки:
+------
+потърсете информация за while цикъл.
+
+
+_______________ Test Data _________________
+
+
+Input 1:
+-------
+(няма)
+
+
+Output 1:
+--------
+1
+2
+3
+...
+10
+
+
+-------------------------------------------
