@@ -1,5 +1,5 @@
 # 20220123 - Python - Conditional Statements Advanced
-# additional 02 - Bike Race
+# additional 02 - Bike Race - judge: https://judge.softuni.org/Contests/Practice/Index/1663#1
 
 
 # user input

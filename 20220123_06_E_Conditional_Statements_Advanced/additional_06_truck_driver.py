@@ -1,5 +1,5 @@
 # 20220123 - Python - Conditional Statements Advanced
-# additional 06 - Truck Driver
+# additional 06 - Truck Driver - judge: https://judge.softuni.org/Contests/Practice/Index/1663#5
 
 
 # user input

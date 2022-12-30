@@ -1,5 +1,5 @@
 # 20220123 - Python - Conditional Statements Advanced
-# additional 05 - Vacation
+# additional 05 - Vacation - judge: https://judge.softuni.org/Contests/Practice/Index/1663#5
 
 
 # user input

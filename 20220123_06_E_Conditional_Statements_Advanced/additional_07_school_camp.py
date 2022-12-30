@@ -1,5 +1,5 @@
 # 20220123 - Python - Conditional Statements Advanced
-# additional 07 - School Camp
+# additional 07 - School Camp - judge: https://judge.softuni.org/Contests/Practice/Index/1663#6
 
 
 # user input

@@ -1,5 +1,5 @@
 # 20220123 - Python - Conditional Statements Advanced
-# additional 10 - Multiply By 2
+# additional 10 - Multiply By 2 - judge: https://judge.softuni.org/Contests/Practice/Index/1663#9
 
 
 # user input

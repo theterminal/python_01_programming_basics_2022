@@ -1,5 +1,5 @@
 # 20220123 - Python - Conditional Statements Advanced
-# additional 01 - Match Tickets
+# additional 01 - Match Tickets - judge: https://judge.softuni.org/Contests/Practice/Index/1663#0
 
 
 # user input

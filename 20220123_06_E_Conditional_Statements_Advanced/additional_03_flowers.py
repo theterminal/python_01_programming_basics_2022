@@ -1,5 +1,5 @@
 # 20220123 - Python - Conditional Statements Advanced
-# additional 03 - Flowers
+# additional 03 - Flowers - judge: https://judge.softuni.org/Contests/Practice/Index/1663#2
 
 
 # user input

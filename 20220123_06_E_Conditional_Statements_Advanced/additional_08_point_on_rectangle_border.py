@@ -1,5 +1,5 @@
 # 20220123 - Python - Conditional Statements Advanced
-# additional 08 - Point On Rectangle Border
+# additional 08 - Point On Rectangle Border - judge: https://judge.softuni.org/Contests/Practice/Index/1663#7
 
 
 # user input

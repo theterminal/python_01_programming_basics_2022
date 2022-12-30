@@ -1,5 +1,5 @@
 # 20220123 - Python - Conditional Statements Advanced
-# additional 04 - Car To Go
+# additional 04 - Car To Go - judge: https://judge.softuni.org/Contests/Practice/Index/1663#3
 
 
 # user input
