@@ -1,4 +1,6 @@
-# 20220128 - Python Code - Vowels Sum
+# 20220128 - Python - For Loop
+# 06 - Vowels Sum - judge: https://judge.softuni.org/Contests/Compete/Index/2417#5
+
 
 word = input()
 total = 0
