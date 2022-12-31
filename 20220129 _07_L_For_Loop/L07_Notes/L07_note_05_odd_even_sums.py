@@ -1,8 +1,8 @@
-# 20220130 - Python Code
-# From the lecture - Odd / Even Sum
+# 20220130 - Python - For Loop
+# Note 05 - Odd / Even Sum
+
 
 n = int(input())
-
 number = sum_even = sum_odd = differance = 0
 
 for i in range(1, n + 1):
