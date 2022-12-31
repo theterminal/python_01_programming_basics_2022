@@ -1,9 +1,8 @@
-# 20220130 - Python Code
+# 20220130 - Python - For Loop
+# Note 02 - Sum of 'n' entered numbers
 
-# From the lecture Sum of 'n' entered numbers
 
 num_to_enter = int(input("How many numbers will be entered? "))
-
 number = total = 0
 number_entered = ""
 
