@@ -1,5 +1,8 @@
-# 20220128 - Python Code - Number Sequence
+# 20220128 - Python - For Loop
+# 08 - Number Sequence - judge: https://judge.softuni.org/Contests/Compete/Index/2417#8
+
 import sys
+
 
 n_numbers = int(input())
 
@@ -8,7 +11,7 @@ min_number = sys.maxsize
 
 for i in range(n_numbers):
     number = int(input())
-    if i == 0:                                      # if this check is deleted (first iteration), judge will give error
+    if i == 0:                                      # if this check is deleted (first iteration), judge will show an error
         max_number = min_number = number
     if number < min_number:
         min_number = number

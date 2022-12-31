@@ -1,4 +1,6 @@
-# 20220128 - Python Code - Sum Numbers
+# 20220128 - Python - For Loop
+# 07 - Sum Numbers - judge: https://judge.softuni.org/Contests/Compete/Index/2417#6
+
 
 n_numbers_to_enter = int(input())
 total = 0
