@@ -1,8 +1,8 @@
-# 20220130 - Python Code
-# From the lecture - Left and Right Sum
+# 20220130 - Python - For Loop
+# Note 04 - Left and Right Sum
+
 
 n = int(input())
-
 left_sum = right_sum = diff = 0
 
 for i in range(1, n + 1):
