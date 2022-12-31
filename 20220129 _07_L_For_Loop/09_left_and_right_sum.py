@@ -1,7 +1,8 @@
-# 20220128 - Python Code - Left & Right Sums
+# 20220128 - Python - For Loop
+# 09 - Left & Right Sums - judge: https://judge.softuni.org/Contests/Compete/Index/2417#9
+
 
 nums_to_enter = int(input())
-
 left_sum = right_sum = diff = 0
 
 for i in range(nums_to_enter):

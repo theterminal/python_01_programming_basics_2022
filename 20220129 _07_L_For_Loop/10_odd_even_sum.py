@@ -1,7 +1,8 @@
-# 20220128 - Python Code - Odd and Even Sums
+# 20220128 - Python - For Loop
+# 10 - Odd and Even Sums - judge: https://judge.softuni.org/Contests/Compete/Index/2417#9
+
 
 nums_to_enter = int(input())
-
 odd_sum, even_sum, diff = 0, 0, 0
 
 for i in range(nums_to_enter):
