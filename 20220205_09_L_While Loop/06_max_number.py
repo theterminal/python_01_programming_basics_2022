@@ -1,9 +1,12 @@
-# 20220130 - Python Code
-# Max Number
+# 20220130 - Python - While Loop
+# 06 - Max Number - judge: https://judge.softuni.org/Contests/Compete/Index/2419#5
+
 import sys
+
 
 # user input
 number = input()
+
 
 # calculations & results
 max_num = -sys.maxsize

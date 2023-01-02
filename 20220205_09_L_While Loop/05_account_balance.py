@@ -1,8 +1,10 @@
-# 20220130 - Python Code
-# Account Balance
+# 20220130 - Python - While Loop
+# 05 - Account Balance - judge: https://judge.softuni.org/Contests/Compete/Index/2419#4
+
 
 # user input
 deposit = input()
+
 
 # calculations & results
 balance = 0
