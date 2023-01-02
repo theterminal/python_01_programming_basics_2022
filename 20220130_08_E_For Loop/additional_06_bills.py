@@ -1,14 +1,17 @@
-# 20220130 - Python Code
-# Bills
+# 20220130 - Python - For Loop
+# Additional 06 - Bills - judge: https://judge.softuni.org/Contests/Practice/Index/1680#5
+
 
 # user's input
 num_months = int(input())
+
 
 # additional elements
 electric_bill = 0
 total_electric = 0
 other = 0
 sum_other = 0
+
 
 # calculations
 for i in range(num_months):
@@ -20,6 +23,7 @@ for i in range(num_months):
 bill_water = num_months * 20
 bill_internet = num_months * 15
 average_monthly = (total_electric + bill_water + bill_internet + sum_other) / num_months
+
 
 # result
 print(f"Electricity: {total_electric:.2f} lv")
