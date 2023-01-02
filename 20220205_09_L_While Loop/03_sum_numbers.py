@@ -1,8 +1,10 @@
-# 20220130 - Python Code
-# - Sum Numbers
+# 20220130 - Python - While Loop
+# 03 - Sum Numbers - judge: https://judge.softuni.org/Contests/Compete/Index/2419#2
+
 
 # user input
 num_test = int(input())
+
 
 # calculations & results
 total = 0
