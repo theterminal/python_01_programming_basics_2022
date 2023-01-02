@@ -1,6 +1,8 @@
-# 20220129 - Python Code
-# Half Sum Element
+# 20220129 - Python - For Loop
+# 02 - Half Sum Element - judge: https://judge.softuni.org/Contests/Compete/Index/2418#1
+
 import sys
+
 
 n_numbers = int(input())
 
