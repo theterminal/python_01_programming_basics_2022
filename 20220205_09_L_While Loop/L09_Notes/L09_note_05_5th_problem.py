@@ -1,10 +1,13 @@
-# 20220130 - Python Code
-# 5-th problem from lecture.
+# 20220130 - Python - While Loop
+# Note 05 - 5-th problem from lecture.
+
 import sys
+
 
 # user input
 number = input()
 biggest = -sys.maxsize
+
 
 # calculations & results
 while number != "Stop":

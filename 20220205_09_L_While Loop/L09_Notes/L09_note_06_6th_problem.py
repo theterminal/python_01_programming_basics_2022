@@ -1,9 +1,12 @@
-# 20220205 - Python Code
-# 6-th problem from lecture.
+# 20220205 - Python - While Loop
+# Note 06 - 6-th problem from lecture.
+
 import sys
+
 
 # user input
 number = input()
+
 
 # calculations & results
 smallest = sys.maxsize

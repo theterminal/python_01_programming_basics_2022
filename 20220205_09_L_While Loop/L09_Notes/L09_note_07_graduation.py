@@ -1,11 +1,14 @@
-# 20220205 - Python Code
-# 7-th problem from the lecture.
+# 20220205 - Python - While Loop
+# Note 07 - 7-th problem from the lecture.
+
 
 # user input
 name_student = input()
 
+
 # additional elements
 fails, grades, sum_grades, average = 0, 1, 0, 0
+
 
 # calculations & results
 while grades <= 12:
