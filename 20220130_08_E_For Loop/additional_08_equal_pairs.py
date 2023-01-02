@@ -1,11 +1,14 @@
-# 20220130 - Python Code
-# Equal Pairs
+# 20220130 - Python - For Loop
+# Additional 08 - Equal Pairs - judge: https://judge.softuni.org/Contests/Practice/Index/1680#7
+
 
 # user's input
 number_pairs = int(input())
 
+
 # additional elements
 number = sum_pair = sum_pair_max = sum_pair_min = diff_max = 0
+
 
 # calculations
 for i in range(number_pairs * 2):
