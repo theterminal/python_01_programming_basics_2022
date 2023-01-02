@@ -1,5 +1,6 @@
-# 20220130 - Python Code
-# Back To The Past
+# 20220130 - Python - For Loop
+# Additional 01 - Back To The Past - judge: https://judge.softuni.org/Contests/Practice/Index/1680#0
+
 
 # user's input
 money_inherited = float(input())
@@ -15,6 +16,7 @@ for i in range(year_to_live_to - 1799):
 
 money_needed = money_needed_odd + money_needed_even
 diff = abs(money_needed - money_inherited)
+
 
 # result
 if money_inherited >= money_needed:
