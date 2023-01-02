@@ -1,10 +1,12 @@
-# 20220130 - Python Code
-# Odd or Even Position
+# 20220130 - Python - For Loop
+# Additional 11 - Odd or Even Position - judge: https://judge.softuni.org/Contests/Practice/Index/1680#10
 
 import sys
 
+
 # user's input
 numbers_entered = int(input())
+
 
 # additional elements
 odd_sum = 0
@@ -13,6 +15,7 @@ odd_max = -sys.maxsize
 even_sum = 0
 even_min = sys.maxsize
 even_max = -sys.maxsize
+
 
 # calculations
 for i in range(1, numbers_entered + 1):
@@ -34,6 +37,7 @@ for i in range(1, numbers_entered + 1):
 
         if number < even_min:
             even_min = number
+
 
 # result
 print(f"OddSum={odd_sum:.2f},")
