@@ -1,8 +1,8 @@
-# 20220129 - Python Code
-# Trekking Mania
+# 20220129 - Python - For Loop
+# 07 - Trekking Mania - judge: https://judge.softuni.org/Contests/Compete/Index/2418#6
+
 
 num_groups = int(input())
-
 num_in_group_entered = num_musala = num_monblan = num_kilimanjaro = num_k2 = num_everest = 0
 
 for i in range(num_groups):

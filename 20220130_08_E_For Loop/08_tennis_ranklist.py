@@ -1,6 +1,8 @@
-# 20220129 - Python Code
-# Tennis Rank-list
+# 20220129 - Python - For Loop
+# 08 - Tennis Rank-list - judge: https://judge.softuni.org/Contests/Compete/Index/2418#7
+
 import math
+
 
 num_tournaments = int(input())
 points_starting = int(input())
