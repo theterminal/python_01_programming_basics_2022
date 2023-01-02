@@ -1,5 +1,6 @@
-# 20220129 - Python Code
-# Histogram
+# 20220129 - Python - For Loop
+# 03 - Histogram - judge: https://judge.softuni.org/Contests/Compete/Index/2418#2
+
 
 nums_to_enter = int(input())
 

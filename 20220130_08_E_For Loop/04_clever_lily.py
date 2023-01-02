@@ -1,5 +1,6 @@
-# 20220129 - Python Code
-# Clever Lily
+# 20220129 - Python - For Loop
+# 04 - Clever Lily - judge: https://judge.softuni.org/Contests/Compete/Index/2418#3
+
 
 age = int(input())
 washer = float(input())
