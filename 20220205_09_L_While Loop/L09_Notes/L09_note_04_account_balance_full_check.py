@@ -1,9 +1,11 @@
-# 20220130 - Python Code
-# Depositing money
+# 20220130 - Python - While Loop
+# Note 04 - Depositing money
+
 
 # user input
 balance = 0
 deposit = input()
+
 
 # calculations & results
 if deposit == "NoMoreMoney":
