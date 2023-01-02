@@ -1,8 +1,10 @@
-# 20220130 - Python Code
-# Graduation
+# 20220130 - Python - While Loop
+# 08 - Graduation - judge: https://judge.softuni.org/Contests/Compete/Index/2419#7
+
 
 # user input
 student_name_entered = input()
+
 
 # calculations & results
 grade_level, counter_fail, sum_grades, average_grade = 1, 0, 0, 0
