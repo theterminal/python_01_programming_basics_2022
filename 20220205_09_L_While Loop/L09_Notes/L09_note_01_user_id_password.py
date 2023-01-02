@@ -1,9 +1,11 @@
-# 20220130 - Python Code
-# Create User ID / Password Log in
+# 20220130 - Python - While Loop
+# Note 01 - Create User ID / Password Log in
+
 
 # user input
 user_id = input("Enter User ID: ")
 password = input("Enter password: ")
+
 
 # calculations & results
 i = 1
