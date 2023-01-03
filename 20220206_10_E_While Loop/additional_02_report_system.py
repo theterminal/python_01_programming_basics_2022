@@ -1,12 +1,15 @@
-# 20220206 - Python Code
-# Report System
+# 20220206 - Python - While Loop
+# Additional 02 - Report System - judge: https://judge.softuni.org/Contests/Practice/Index/1684#1
+
 
 # user's input
 money_expected_to_be_raised = int(input())
 price_entered = input()
 
+
 # additional elements
 counter = money_received_total = money_received_cash = money_received_cc = counter_cash = counter_cc = 0
+
 
 # calculations & result
 while price_entered != "End":
