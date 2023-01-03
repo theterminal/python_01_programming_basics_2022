@@ -1,9 +1,11 @@
-# 20220205 - Python Code
-# Exam Preparation
+# 20220205 - Python - While Loop
+# 02 - Exam Preparation - judge: https://judge.softuni.org/Contests/Compete/Index/2420#1
+
 
 # user input
 num_fails_allowed = int(input())
 name_problem = input()
+
 
 # calculations & results
 counter_problems, sum_score, average_score, counter_fails, last_problem = 0, 0, 0, 0, ""
