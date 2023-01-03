@@ -1,8 +1,10 @@
-# 20220205 - Python Code
-# Moving
+# 20220205 - Python - While Loop
+# 07 - Moving - judge: https://judge.softuni.org/Contests/Compete/Index/2420#6
+
 
 # user input
 axis_x, axis_y, axis_z = int(input()), int(input()), int(input())
+
 
 # calculations & results
 space_total = axis_x * axis_y * axis_z
