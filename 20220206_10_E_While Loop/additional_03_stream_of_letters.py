@@ -1,12 +1,15 @@
-# 20220206 - Python Code
-# Stream of Letters
+# 20220206 - Python - While Loop
+# Additional 03 - Stream of Letters - judge: https://judge.softuni.org/Contests/Practice/Index/1684#2
+
 
 # user's input
 letter_entered = input()                            # ASCII from 65 to 90 & from 97 to 122
 
+
 # additional elements
 word, word_print = '', ''
 count_c = count_o = count_n = 0
+
 
 # result
 while letter_entered != "End":
