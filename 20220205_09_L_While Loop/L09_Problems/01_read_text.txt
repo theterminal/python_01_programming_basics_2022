@@ -1,0 +1,59 @@
+20220130 - Python - While Loop
+01 - Read Text - judge: https://judge.softuni.org/Contests/Compete/Index/2419#0
+
+
+Напишете програма, която чете текст от конзолата (стринг) и го принтира, докато не получи командата “Stop".
+
+
+____________ Test Data ____________
+
+
+Input 1:
+-------
+Nakov
+SoftUni
+Sofia
+Bulgaria
+SomeText
+Stop
+AfterStop
+Europe
+HelloWorld
+
+
+Output 1:
+--------
+Nakov
+SoftUni
+Sofia
+Bulgaria
+SomeText
+
+
+-----------------------------------
+
+
+Input 2:
+-------
+Sofia
+Berlin
+Moscow
+Athens
+Madrid
+London
+Paris
+Stop
+
+
+Output 2:
+--------
+Sofia
+Berlin
+Moscow
+Athens
+Madrid
+London
+Paris
+
+
+-----------------------------------
