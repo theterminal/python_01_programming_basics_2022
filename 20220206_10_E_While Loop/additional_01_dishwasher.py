@@ -1,15 +1,19 @@
-# 20220205 - Python Code
-# Dishwasher
+# 20220205 - Python - While Loop
+# Additional 01 - Dishwasher - judge: https://judge.softuni.org/Contests/Practice/Index/1684#0
+
 
 # user's input
 num_bottles_dish_liquid_used = int(input())
 num_dishes_to_wash = input()
 
+
 # additional elements
 cycle = num_pots = num_dishes = detergent = 0
 
+
 # calculations
 total_detergent_ml = num_bottles_dish_liquid_used * 750
+
 
 # result
 while num_dishes_to_wash != "End":
