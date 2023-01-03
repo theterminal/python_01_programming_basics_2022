@@ -1,9 +1,11 @@
-# 20220205 - Python Code
-# Cake
+# 20220205 - Python - While Loop
+# 06 - Cake - judge: https://judge.softuni.org/Contests/Compete/Index/2420#5
+
 
 # user input
 cake_width = int(input())
 cake_length = int(input())
+
 
 # calculations & results
 total_available_pcs = cake_width * cake_length
