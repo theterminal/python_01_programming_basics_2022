@@ -1,0 +1,138 @@
+20220205 - Python - While Loop
+01 - Old Books - judge: https://judge.softuni.org/Contests/Compete/Index/2420#0
+
+
+Ани отива до родния си град след много дълъг период извън страната.
+Прибирайки се вкъщи, тя вижда старата библиотека на баба си и си спомня за любимата си книга.
+Помогнете на Ани, като напишете програма, в която тя въвежда търсената от нея книга (текст).
+Докато Ани не намери любимата си книга или не провери всички книги в библиотеката,
+програмата трябва да чете всеки път на нов ред името на всяка следваща книга (текст), която тя проверява.
+
+Книгите в библиотеката са свършили щом получите текст "No More Books".
+
+    *) Ако не открие търсената книгата да се отпечата на два реда:
+        - "The book you search is not here!"
+        - "You checked {брой} books."
+
+    *) Ако открие книгата си се отпечатва един ред:
+        - "You checked {брой} books and found it."
+
+
+_____________ Test Data ______________
+
+
+Input 1:
+-------
+Troy
+Stronger
+Life Style
+Troy
+
+
+Output 1:
+---------
+You checked 2 books and found it.
+
+
+Comment 1:
+---------
+Книгата която Ани търси, в случая е Troy.
+Първата книга от библиотеката е Stronger, втората е Life Style, третата книга е търсената – Troy и програмата приключва.
+
+
+--------------------------------------
+
+
+Input 2:
+-------
+The Spot
+Hunger Games
+Harry Potter
+Torronto
+Spotify
+No More Books
+
+
+Output 2:
+---------
+The book you search is not here!
+You checked 4 books.
+
+
+Comment 2:
+---------
+Книгата, която търси Ани е "The Spot".
+Първата книга от библиотеката е Hunger Games, втората Harry Potter, третата Torronto, а четвъртата Spotify.
+Понеже няма повече книги в библиотеката, четенето на имена приключва.
+Ани не намери книгата, която търсеше.
+
+
+--------------------------------------
+
+
+Input 3:
+-------
+Bourne
+True Story
+Forever
+More Space
+The Girl
+Spaceship
+Strongest
+Profit
+Tripple
+Stella
+The Matrix
+Bourne
+
+
+Output 3:
+---------
+You checked 10 books and found it.
+
+
+--------------------------------------
+
+
+Насоки:
+-------
+    *) Прочетете входните данни от конзолата:
+
+book_name = input()
+
+
+    *) Направете още две помощни променливи в началото:
+        - едната ще е брояч (от тип цяло число и с първоначална стойност нула), с която ще следим колко книги са проверени
+        - другата променлива трябва да е от булев тип и да е с началната стойност False.
+
+book_count = 0
+is_book_found = False
+
+
+    *) Направете while цикъл, в който всеки път ще четете от конзолата нова книга, докато книгите в библиотеката се
+       изчерпят и прочетете текста "No More Books".
+
+current_book = input()
+while current_book != 'No More Books':
+
+
+    *) Направете проверка - ако книгата, която четете от конзолата съвпада с любимата книга на Ани,
+       променете стойността на променливата от булев тип на True, принтирайте и прекратете цикъла.
+       В противен случай увеличете брояча с едно:
+
+current_book = input()
+while current_book != 'No More Books':
+    if current_book == book_name:
+        is_book_found = True
+        print(f'You checked {book_count} books and found it.')
+        break
+
+        book_count += 1
+        current_book = input()
+
+
+    *) Според това дали книгата не е намерена, принтирайте нужните съобщения:
+
+if not is_book_found:
+    print('The book you search is not here!')
+    print(f'You checked {book_count} books.')
