@@ -1,7 +1,10 @@
-# 20220208 - Python Code - TOTO 6 from 49 All Combinations Printed
+# 20220208 - Python - Nested Loops
+# Note 01 - TOTO 6 from 49 All Combinations Printed
+
 
 # given information
 num_cycle = 0
+
 
 # calculations & result
 for i in range(1, 50):
