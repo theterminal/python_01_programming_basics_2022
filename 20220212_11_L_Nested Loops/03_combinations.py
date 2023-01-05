@@ -1,7 +1,10 @@
-# 20220208 - Python Code - Combinations
+# 20220208 - Python - Nested Loops
+# 03 - Combinations - judge: https://judge.softuni.org/Contests/Compete/Index/2421#2
+
 
 # user input
 n = int(input())
+
 
 # calculations & results
 counter = 0
