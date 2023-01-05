@@ -1,4 +1,6 @@
-# 20220210 - Python Code - Prime Number Generator
+# 20220210 - Python - Nested Loops
+# Note 02 - Prime Number Generator
+
 
 range_start = int(input("Enter start range number: "))
 range_end = int(input("Enter end range number: "))
