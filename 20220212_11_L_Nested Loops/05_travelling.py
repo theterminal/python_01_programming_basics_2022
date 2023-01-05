@@ -1,4 +1,6 @@
-# 20220208 - Python Code - Travelling
+# 20220208 - Python - Nested Loops
+# 05 - Travelling - judge: https://judge.softuni.org/Contests/Compete/Index/2421#4
+
 
 total_saved = 0
 
