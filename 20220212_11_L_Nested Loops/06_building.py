@@ -1,8 +1,11 @@
-# 20220208 - Python Code - Building
+# 20220208 - Python - Nested Loops
+# 06 - Building - judge: https://judge.softuni.org/Contests/Compete/Index/2421#5
+
 
 # user input
 num_floors_entered = int(input())
 num_rooms_per_floor = int(input())
+
 
 # calculations & results
 for floor_num in range(num_floors_entered, 0, -1):
