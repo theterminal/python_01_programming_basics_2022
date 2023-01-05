@@ -1,4 +1,6 @@
-# 20220210 - Python Code - Equal Sums Even Odd Position
+# 20220210 - Python - Nested Loops
+# 02 - Equal Sums Even Odd Position - judge: https://judge.softuni.org/Contests/Compete/Index/2422#1
+
 
 # user's input
 num_1_entered = int(input())
@@ -8,6 +10,7 @@ if num_1_entered > num_2_entered:
     num_temp = num_1_entered
     num_1_entered = num_2_entered
     num_2_entered = num_temp
+
 
 # calculations & result
 for num in range(num_1_entered, num_2_entered + 1):
