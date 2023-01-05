@@ -1,9 +1,12 @@
-# # 20220208 - Python Code - Sum of Two Numbers
+# 20220208 - Python - Nested Loops
+# 04 - Sum of Two Numbers - judge: https://judge.softuni.org/Contests/Compete/Index/2421#3
+
 
 # user input
 num_start = int(input())
 num_end = int(input())
 num_magic = int(input())
+
 
 # calculations & results
 counter_magic = 0
