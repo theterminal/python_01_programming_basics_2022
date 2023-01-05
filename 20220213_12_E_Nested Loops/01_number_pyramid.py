@@ -1,11 +1,15 @@
-# 20220210 - Python Code - Number Pyramid
+# 20220210 - Python - Nested Loops
+# 01 - Number Pyramid - judge: https://judge.softuni.org/Contests/Compete/Index/2422#0
+
 
 # user's input
 num_entered = int(input())
 
+
 # additional information
 current_num = 0
 all_printed = False
+
 
 # result
 for row in range(1, num_entered):
