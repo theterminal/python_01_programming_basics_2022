@@ -1,4 +1,6 @@
-# 20220210 - Python Code - examples
+# 20220210 - Python - Nested Loops
+# Note 01 - examples
+
 
 # result
 words = ('apple', 'banana', 'lemon', 'apple')
