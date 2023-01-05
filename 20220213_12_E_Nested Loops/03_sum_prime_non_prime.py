@@ -1,10 +1,11 @@
-# 20220210 - Python Code - Sum Prime Numbers and Non Prime Numbers
+# 20220210 - Python - Nested Loops
+# 03 - Sum Prime Numbers and Non Prime Numbers - judge: https://judge.softuni.org/Contests/Compete/Index/2422#2
+
 
 sum_nums_prime, sum_nums_non_prime, flag = 0, 0, False
 
 while True:
     num_entered = input()
-
     if num_entered == "stop":
         break
 
@@ -22,7 +23,6 @@ while True:
 
     if not flag:
         sum_nums_prime += num_entered
-
     flag = False
 
 print(f"Sum of all prime numbers is: {sum_nums_prime}")
