@@ -1,4 +1,6 @@
-# 20220215 - Python Code - Car Number - judge url: https://judge.softuni.org/Contests/Practice/Index/1381#3
+# 20220215 - Python - Nested Loops
+# Additional 04 - Car Number - judge: https://judge.softuni.org/Contests/Practice/Index/1381#3
+
 
 range_start = range_end = ''
 
@@ -17,7 +19,6 @@ for digit_1 in range(range_start, range_end + 1):
     for digit_2 in range(range_start, range_end + 1):
         for digit_3 in range(range_start, range_end + 1):
             for digit_4 in range(range_start, range_end + 1):
-
                 if (digit_1 % 2 == 0 and digit_4 % 2 != 0) or (digit_1 % 2 != 0 and digit_4 % 2 == 0):
                     if digit_1 > digit_4:
                         if (digit_2 + digit_3) % 2 == 0:
