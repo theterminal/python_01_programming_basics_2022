@@ -1,7 +1,10 @@
-# 20220210 - Python Code - Cinema Tickets
+# 20220210 - Python - Nested Loops
+# 06 - Cinema Tickets - judge: https://judge.softuni.org/Contests/Compete/Index/2422#5
+
 
 # user input
 name_of_movie_entered = input()
+
 
 # calculations & results
 counter_total, counter_student, counter_standard, counter_kid = 0, 0, 0, 0
@@ -30,6 +33,7 @@ while name_of_movie_entered != "Finish":
     percent_sold = tickets_sold_this_movie / seats_all_entered * 100
     print(F"{name_of_movie_entered} - {percent_sold:.2f}% full.")
     name_of_movie_entered = input()
+
 
 # result
 if counter_total == 0:
