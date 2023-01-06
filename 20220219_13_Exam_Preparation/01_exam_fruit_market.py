@@ -1,4 +1,6 @@
-# 20220219 - Python Code - Fruit Market - https://judge.softuni.org/Contests/Practice/Index/1654#0
+# 20220219 - Python - Programming Basics - Exam Preparation
+# 01 - Fruit Market - https://judge.softuni.org/Contests/Practice/Index/1654#0
+
 
 # user input
 price_strawberry_bgn = float(input())
@@ -6,6 +8,7 @@ bananas_kg = float(input())
 oranges_kg = float(input())
 raspberry_kg = float(input())
 strawberry_kg = float(input())
+
 
 # calculations & results
 price_raspberry_bgn = price_strawberry_bgn * 0.5
