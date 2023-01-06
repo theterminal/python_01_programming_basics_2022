@@ -1,11 +1,15 @@
-# 20220210 - Python Code - Train The Trainers
+# 20220210 - Python - Nested Loops
+# 04 - Train The Trainers - judge: https://judge.softuni.org/Contests/Compete/Index/2422#3
+
 
 # user's input
 num_of_jury_members = int(input())
 title_of_presentation = input()
 
+
 # given information
 sum_grades, grade_entered, sum_of_average_grades, counter_titles = 0, 0, 0, 0
+
 
 # calculations & result
 while title_of_presentation != "Finish":
