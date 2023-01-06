@@ -1,4 +1,6 @@
-# 20220215 - Python Code - Challenge The Wedding - judge url: https://judge.softuni.org/Contests/Practice/Index/1381#4
+# 20220215 - Python - Nested Loops
+# Additional 05 - Challenge The Wedding - judge: https://judge.softuni.org/Contests/Practice/Index/1381#4
+
 
 num_customers_men = int(input())
 num_customers_women = int(input())
