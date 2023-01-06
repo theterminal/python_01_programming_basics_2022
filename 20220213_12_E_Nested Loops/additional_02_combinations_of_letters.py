@@ -1,4 +1,6 @@
-# 20220215 - Python Code - Combinations of Letters - judge url: https://judge.softuni.org/Contests/Practice/Index/1381#1
+# 20220215 - Python - Nested Loops
+# Additional 02 - Combinations of Letters - judge: https://judge.softuni.org/Contests/Practice/Index/1381#1
+
 
 range_start_num = ord(input())
 range_end_num = ord(input())
