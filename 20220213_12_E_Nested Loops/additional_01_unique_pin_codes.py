@@ -1,4 +1,6 @@
-# 20220215 - Python Code - Unique PIN Codes - judge url: https://judge.softuni.org/Contests/Practice/Index/1381#0
+# 20220215 - Python - Nested Loops
+# Additional 01 - Unique PIN Codes - judge: https://judge.softuni.org/Contests/Practice/Index/1381#0
+
 
 upper_limit_num_1 = int(input())
 upper_limit_num_2 = int(input())
