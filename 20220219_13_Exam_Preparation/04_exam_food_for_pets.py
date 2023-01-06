@@ -1,8 +1,11 @@
-# 20220219 - Python Code - Food For Pets - https://judge.softuni.org/Contests/Practice/Index/2275#6
+# 20220219 - Python - Programming Basics - Exam Preparation
+# 04 - Food For Pets - https://judge.softuni.org/Contests/Practice/Index/2275#6
+
 
 # user input
 num_days = int(input())
 total_food = float(input())
+
 
 # calculations & results
 total_food_today, biscuits_current_day, total_biscuits = 0, 0, 0
