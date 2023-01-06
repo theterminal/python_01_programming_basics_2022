@@ -1,8 +1,11 @@
-# 20220219 - Python Code - Easter Eggs Battle - https://judge.softuni.org/Contests/Practice/Index/1637#6
+# 20220219 - Python - Programming Basics - Exam Preparation
+# 05 - Easter Eggs Battle - https://judge.softuni.org/Contests/Practice/Index/1637#6
+
 
 # user input
 num_egs_1 = int(input())
 num_egs_2 = int(input())
+
 
 # calculations & results
 winner_entered = input()
