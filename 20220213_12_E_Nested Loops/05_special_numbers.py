@@ -1,7 +1,10 @@
-# 20220210 - Python Code - Special Numbers
+# 20220210 - Python - Nested Loops
+# 05 - Special Numbers - judge: https://judge.softuni.org/Contests/Compete/Index/2422#4
+
 
 # user input
 num_entered = int(input())
+
 
 # calculations & results
 for current_num in range(1111, 10000):
