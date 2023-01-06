@@ -1,7 +1,8 @@
-# 20220215 - Python Code - Lucky Numbers - judge url: https://judge.softuni.org/Contests/Practice/Index/1381#2
+# 20220215 - Python - Nested Loops
+# Additional 03 - Lucky Numbers - judge: https://judge.softuni.org/Contests/Practice/Index/1381#2
+
 
 num_N = int(input())
-
 for i in range(1, 10):
     for j in range(1, 10):
         for k in range(1, 10):
