@@ -1,10 +1,13 @@
-# 20220219 - Python Code - Family Trip - https://judge.softuni.org/Contests/Practice/Index/1745#1
+# 20220219 - Python - Programming Basics - Exam Preparation
+# 02 - Family Trip - https://judge.softuni.org/Contests/Practice/Index/1745#1
+
 
 # user input
 budget_entered = float(input())
 num_nights_entered = int(input())
 price_per_night = float(input())
 percent_additional_expenses = int(input()) * 0.01
+
 
 # calculations & results
 if num_nights_entered > 7:
