@@ -1,10 +1,13 @@
-# 20220219 - Python Code - Movie Destination - https://judge.softuni.org/Contests/Practice/Index/1699#4
+# 20220219 - Python - Programming Basics - Exam Preparation
+# 03 - Movie Destination - https://judge.softuni.org/Contests/Practice/Index/1699#4
+
 
 # user input
 budget = float(input())
 destination = input()
 season = input()
 num_days_to_film = int(input())
+
 
 # calculations & results
 cost_per_day_filming = 0
