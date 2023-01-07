@@ -1,7 +1,10 @@
-# 20220219 - Python Code - Sum And Product - judge url: https://judge.softuni.org/Contests/Compete/Index/3351#5
+# 20220219 - Python - Programming Basics - Pre-Exam
+# 06 - Sum And Product - judge: https://judge.softuni.org/Contests/Compete/Index/3351#5
+
 
 # user information
 n_number_entered = int(input())
+
 
 # calculations & results
 
