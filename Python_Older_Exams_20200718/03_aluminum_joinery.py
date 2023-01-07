@@ -1,12 +1,16 @@
-# 20220218 - Python Code - Aluminum Joinery
+# 20220218 - Python - Programming Basics - Exam 20200718
+# 03 - Aluminum Joinery - judge: https://judge.softuni.org/Contests/Practice/Index/2507#2
+
 
 # user's input
 number_windows_ordered = int(input())
 type_windows_ordered = input()
 delivery = input()
 
+
 # additional elements
 price = discount = 0
+
 
 # calculations
 if number_windows_ordered < 10:
@@ -62,6 +66,7 @@ if delivery == "With delivery":
 
 if number_windows_ordered > 99:
     price *= 0.96
+
 
 # result
 print(f"{price:.2f} BGN")
