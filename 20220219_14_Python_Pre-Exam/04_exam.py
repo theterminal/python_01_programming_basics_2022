@@ -1,7 +1,10 @@
-# 20220219 - Python Code - Exam - judge url:
+# 20220219 - Python - Programming Basics - Pre-Exam
+# 04 - Exam - judge: https://judge.softuni.org/Contests/Compete/Index/3351#3
+
 
 # user information
 num_students = int(input())
+
 
 # calculations & results
 counter_200_299, counter_300_399, counter_400_499, counter_500_more = 0, 0, 0, 0
