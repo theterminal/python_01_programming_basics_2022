@@ -1,4 +1,6 @@
-# 20220218 - Python Code - Best Player
+# 20220218 - Python - Programming Basics - Exam 20200718
+# 05 - Best Player - judge: https://judge.softuni.org/Contests/Practice/Index/2507#4
+
 
 flag_h3 = num_goals = num_goals_best_player = 0
 best_player_name = ''
