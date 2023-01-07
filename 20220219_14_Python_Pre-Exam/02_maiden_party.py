@@ -1,4 +1,6 @@
-# 20220219 - Python Code - Maiden Party - judge url: https://judge.softuni.org/Contests/Compete/Index/3351#1
+# 20220219 - Python - Programming Basics - Pre-Exam
+# 02 - Maiden Party - judge: https://judge.softuni.org/Contests/Compete/Index/3351#1
+
 
 # user information
 money_needed_bgn = float(input())
@@ -9,6 +11,7 @@ num_caricatures_entered = int(input())
 num_surprises_entered = int(input())
 
 price_per_love, price_per_rose, price_per_keychain, price_per_caricature, price_per_surprise = 0.60, 7.20, 3.60, 18.20, 22.00
+
 
 # calculations & results
 amount_love_bgn = num_love_entered * price_per_love
