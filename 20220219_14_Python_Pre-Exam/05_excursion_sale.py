@@ -1,10 +1,13 @@
-# 20220219 - Python Code - Excursion Sale - judge url: https://judge.softuni.org/Contests/Compete/Index/3351#4
+# 20220219 - Python - Programming Basics - Pre-Exam
+# 05 - Excursion Sale - judge: https://judge.softuni.org/Contests/Compete/Index/3351#4
+
 
 # user information
 num_sea_vac = int(input())
 num_mountain_vac = int(input())
 
 vac_pack_entered = input()
+
 
 # calculations & results
 profit = 0
