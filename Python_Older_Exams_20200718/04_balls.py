@@ -1,5 +1,8 @@
-# 20220218 - Python Code - Balls
+# 20220218 - Python - Programming Basics - Exam 20200718
+# 04 - Balls - judge: https://judge.softuni.org/Contests/Practice/Index/2507#3
+
 from math import floor
+
 
 num_balls_entered = int(input())
 total_points = counter_red = counter_orange = counter_yellow = counter_white = counter_black = counter_other = 0
