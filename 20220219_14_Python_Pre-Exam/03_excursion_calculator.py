@@ -1,8 +1,11 @@
-# 20220219 - Python Code - Excursion Calculator - judge url: https://judge.softuni.org/Contests/Compete/Index/3351#2
+# 20220219 - Python - Programming Basics - Pre-Exam
+# 03 - Excursion Calculator - judge: https://judge.softuni.org/Contests/Compete/Index/3351#2
+
 
 # user information
 num_people_entered = int(input())
 season_entered = input()
+
 
 # calculations & results
 price = 0
